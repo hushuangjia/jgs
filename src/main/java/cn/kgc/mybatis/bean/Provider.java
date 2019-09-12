@@ -4,6 +4,8 @@ import java.util.Date;
 
 public class Provider {
 	//1111111111111111
+	
+	private Integer aaaaa;
 	private Integer id;   //id
 	private String proCode; //供应商编码
 	private String proName; //供应商名称
